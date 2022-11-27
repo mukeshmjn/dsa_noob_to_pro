@@ -1,3 +1,5 @@
+// leetcode link: https://leetcode.com/problems/two-sum/
+
 int twoSum(vector<int>& nums, int target) {
 	/*
 		 nums = [2,7,11,15], target = 9
